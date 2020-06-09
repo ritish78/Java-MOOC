@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: LiteracyComparisonTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.156 s <<< FAILURE! - in LiteracyComparisonTest
+literacyComparisonTest(LiteracyComparisonTest)  Time elapsed: 0.007 s  <<< ERROR!
+java.util.NoSuchElementException: No line found
+	at LiteracyComparisonTest.literacyComparisonTest(LiteracyComparisonTest.java:19)
+
